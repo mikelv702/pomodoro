@@ -2,7 +2,7 @@
 name = "mypomodoro"
 version = "0.1.0"
 description = ""
-authors = ["Michael Hall <michael@rubberduck-labs.com"]
+authors = ["Michael Hall <michael@rubberduck-labs.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
